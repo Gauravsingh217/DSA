@@ -7,7 +7,7 @@ void pattern(int n)
     {
         for (int j = 0; j <= i; j++)
         {
-            cout << "* ";
+            cout << " * ";
         }
         cout << endl;
     }
