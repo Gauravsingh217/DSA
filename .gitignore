@@ -1,7 +1,9 @@
 *.exe 
 *.o 
+tempCodeRunnerFile.cpp
 *.obj 
 Debug/ 
 Release/ 
 build/ 
 bin/ 
+.vscode/
